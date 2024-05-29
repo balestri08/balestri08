@@ -2,7 +2,7 @@
 
 Meu nome é Giovanni Balestri Cintra
 
-Estou estudando na [Alura] (https://www.alura.com.br)
+Estou estudando na [Alura](https://www.alura.com.br)
 
 Estou me desenvolvendo na linguagem JavaScript
 
